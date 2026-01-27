@@ -4,8 +4,6 @@ Este repositório contém o arquivo `config.json`, responsável por definir
 os textos, links e cores do site do convite de casamento.
 ---
 
-## Textos do convite
-
 ### 📝 quote (frase em destaque)
 
 Este campo define a frase principal exibida no topo do convite.
